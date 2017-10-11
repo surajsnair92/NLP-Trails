@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,utterance_index,subutterance_index,text
+sw00utt/sw_0001_4325.utt,4/sw4325,4325,135,b,A,77,1,Uh-huh. /
+sw00utt/sw_0001_4325.utt,4/sw4325,4325,136,+,B,78,1,-- at home. /
+sw00utt/sw_0001_4325.utt,4/sw4325,4325,137,b,A,79,1,"Yeah,  /"
+sw00utt/sw_0001_4325.utt,4/sw4325,4325,138,b^r,A,79,2,yeah. /
+sw00utt/sw_0001_4325.utt,4/sw4325,4325,139,sv,B,80,1,That's interesting. /
+sw00utt/sw_0001_4325.utt,4/sw4325,4325,140,%,A,81,1,"{D So, } -/"
+sw00utt/sw_0001_4325.utt,4/sw4325,4325,141,qy,B,82,1,Do you have to have <any> special training? /
+sw00utt/sw_0001_4325.utt,4/sw4325,4325,142,%,A,83,1,"Not, - /"
+sw00utt/sw_0001_4325.utt,4/sw4325,4325,143,sd,A,83,2,it depends on the state you live actually.  /
